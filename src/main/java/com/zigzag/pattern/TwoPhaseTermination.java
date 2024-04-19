@@ -1,4 +1,4 @@
-package com.zigzag.thread.api;
+package com.zigzag.pattern;
 
 import lombok.extern.slf4j.Slf4j;
 
