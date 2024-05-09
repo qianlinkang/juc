@@ -37,7 +37,7 @@ public class SlowMotion {
         }
     }
 
-    private static void sleep(int millis) {
+    public static void sleep(int millis) {
         try {
             Thread.sleep(millis);
         } catch (InterruptedException e) {
